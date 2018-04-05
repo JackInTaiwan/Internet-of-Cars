@@ -1,0 +1,15 @@
+construction_anti/
+construction_anti_tmp/
+construction_imgs/
+construction_imgs_tmp/
+down_img/
+models/
+test_data/
+test_img/
+__pycache__/
+.idea/
+
+notes.py
+db.sqlite3
+
+*.txt
